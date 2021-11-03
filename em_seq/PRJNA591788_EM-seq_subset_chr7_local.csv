@@ -1,0 +1,2 @@
+id,group,replicate,data1,data2,age
+SRR105321441,test,1,/Users/cheshic/dev/test_data/mitrabio/data/pipeline_test/SRR10532145_1.subset.r1.fastq.gz,/Users/cheshic/dev/test_data/mitrabio/data/pipeline_test/SRR10532145_1.subset.r2.fastq.gz,20
